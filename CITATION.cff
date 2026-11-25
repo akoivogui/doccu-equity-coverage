@@ -7,4 +7,5 @@ date-released: 2026-11-25
 authors:
   - name: "CRCDC Île-de-France — Pôle Data, Étude, Recherche et Évaluation (DERE)"
 repository-code: "https://github.com/akoivogui/doccu-equity-coverage"
+doi: "10.5281/zenodo.24529601"
 license: MIT
