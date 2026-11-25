@@ -60,6 +60,12 @@ The public code documents the analytical definitions and production logic used f
 
 The workflow is implemented in **R** and uses, among others, `data.table`, `dplyr`, `ggplot2`, `sf`, `flextable`, `officer`, `patchwork`, `scales` and `janitor`.
 
+## Archived release
+
+Version **v1.0.0** is permanently archived in Zenodo:
+
+**DOI: [10.5281/zenodo.24529601](https://doi.org/10.5281/zenodo.24529601)**
+
 ## Citation
 
 Please cite the associated article and the archived software release. A machine-readable citation file is provided in `CITATION.cff`.
