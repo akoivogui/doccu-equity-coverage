@@ -1,0 +1,38 @@
+# Sensitive / non-public data
+*.rds
+*.RData
+*.rda
+*.dta
+*.sav
+*.sas7bdat
+*.parquet
+*.feather
+*.fst
+
+# Local exports / generated results
+04_PRODUCTION_RESULTATS/
+outputs/
+results/
+figures/
+tables/
+
+# GIS source data if locally supplied
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# R / IDE
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.Renviron
+.env
